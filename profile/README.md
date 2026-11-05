@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://magicdala.com/">
-    <img src="https://magicdala.com/img/logo.png" width="100" alt="Magic Dala" />
+    <img src="https://github.com/Magic-Dala.png" width="100" alt="Magic Dala" />
   </a>
 </p>
 
@@ -13,6 +13,7 @@
 <p align="center">
   <a href="https://magicdala.com/">Website</a> ·
   <a href="https://archbro.app/">Archbro</a> ·
+  <a href="https://museguard.magicdala.com/">MuseGuard</a> ·
   <a href="mailto:hello@magicdala.com">Get in touch</a>
 </p>
 
@@ -22,7 +23,7 @@ We're **Magic Dala**, an AI-native software company based in the United States a
 
 ## Meet Archbro
 
-**Our flagship product · Launching soon**
+**Our flagship product · Now in beta**
 
 A shared workspace for people and AI agents. Archbro connects software architecture, project context, and execution, helping teams move from an idea to coordinated action while keeping human judgment at the center.
 
@@ -30,14 +31,27 @@ A shared workspace for people and AI agents. Archbro connects software architect
   <img src="https://magicdala.com/img/archbro-thumbnail.png" width="960" alt="Archbro workspace preview, showing connected architecture, project context, and execution tools." />
 </a>
 
-[Explore Archbro →](https://archbro.app/)
+Archbro is in beta and live at **[archbro.app](https://archbro.app/)**.
+
+[Try Archbro →](https://archbro.app/)
+
+## Meet MuseGuard
+
+**Built for the Meta Global AI Developer Hackathon · App beta now available**
+
+Turn a spare phone into a home guardian for a sleeping baby, a pet, or an older family member. MuseGuard screens on the phone itself and only alerts the family when it matters: covered face or face-down sleep in Baby mode, zone entries in Pet mode, and possible falls in Older adult mode. In Baby mode, Meta's Muse Spark with SAM 3.1 takes a second look before a high-risk alert goes out and explains why in plain language, in English or Traditional Chinese. Live phone-to-phone video and activity history keep the whole family in the loop.
+
+<a href="https://museguard.magicdala.com/">
+  <img src="https://raw.githubusercontent.com/Magic-Dala/Meta-MuseGuard/main/docs/assets/screens.png" width="960" alt="MuseGuard screens: a home with Baby, Pet and Older adult guardians, a Baby guardian phone with the live crib view, a Pet watch zone, and the family's live view during a possible-fall check." />
+</a>
+
+[Try MuseGuard →](https://museguard.magicdala.com/) · [Explore the code →](https://github.com/Magic-Dala/Meta-MuseGuard) · [Watch the demo →](https://youtu.be/2dX_lJQgHr0)
 
 ## Explore our public projects
 
 | Project | What we're building |
 | :--- | :--- |
-| **[Archbro · WebMCP](https://github.com/Magic-Dala/archbro-webmcp)** | A human-guided project workspace with browser-native tools for AI agents. |
-| **[Archbro · AWS](https://github.com/Magic-Dala/archbro-aws)** | An Archbro implementation powered by the AWS Strands Agents SDK. |
+| **[MuseGuard](https://github.com/Magic-Dala/Meta-MuseGuard)** | An AI home guardian that turns a spare phone into a monitor for a baby, a pet, or an older family member. |
 | **[Keys by Friday](https://github.com/Magic-Dala/keys-by-friday)** | An AI rental-search agent that turns scattered listings into an informed shortlist. |
 | **[Rolig](https://github.com/Magic-Dala/Rolig)** | A personalized meme feed for iOS, Android, and the web. |
 
