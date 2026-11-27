@@ -14,6 +14,7 @@
   <a href="https://magicdala.com/">Website</a> ·
   <a href="https://archbro.app/">Archbro</a> ·
   <a href="https://museguard.magicdala.com/">MuseGuard</a> ·
+  <a href="https://bnum.magicdala.com/">Mobius</a> ·
   <a href="mailto:hello@magicdala.com">Get in touch</a>
 </p>
 
@@ -28,7 +29,7 @@ We're **Magic Dala**, an AI-native software company based in the United States a
 A shared workspace for people and AI agents. Archbro connects software architecture, project context, and execution, helping teams move from an idea to coordinated action while keeping human judgment at the center.
 
 <a href="https://archbro.app/">
-  <img src="https://magicdala.com/img/archbro-thumbnail.png" width="960" alt="Archbro workspace preview, showing connected architecture, project context, and execution tools." />
+  <img src="https://raw.githubusercontent.com/Magic-Dala/.github/main/profile/assets/archbro-gallery.jpg" width="960" alt="Archbro: turn a goal into a system architecture. Screens show architecture maps in light and dark themes and a gallery of projects, each with its own map." />
 </a>
 
 Archbro is in beta and live at **[archbro.app](https://archbro.app/)**.
@@ -47,11 +48,24 @@ Turn a spare phone into a home guardian for a sleeping baby, a pet, or an older 
 
 [Try MuseGuard →](https://museguard.magicdala.com/) · [Explore the code →](https://github.com/Magic-Dala/Meta-MuseGuard) · [Watch the demo →](https://youtu.be/2dX_lJQgHr0)
 
+## Meet Brand New Universe - Mobius
+
+**VR rhythm-action for Meta Quest 3 · Playable now, in development**
+
+A superhero rhythm-action game for Meta Quest 3, in English and Chinese. Swing through the city, chase the boss, and hit the beat, with an arcade mode that has its own music and scenes. Mobius is our entry for the Meta VR Start Developer Competition 2026.
+
+<a href="https://bnum.magicdala.com/">
+  <img src="https://raw.githubusercontent.com/Magic-Dala/.github/main/profile/assets/mobius-key-art.jpg" width="960" alt="Brand New Universe - Mobius key art: an armored superhero swings across a city at sunset, and a first-person view shows glowing rhythm lanes in a warehouse with a scaled boss looming above." />
+</a>
+
+[Try Mobius →](https://bnum.magicdala.com/) · [Explore the code →](https://github.com/Magic-Dala/brand-new-universe-mobius)
+
 ## Explore our public projects
 
 | Project | What we're building |
 | :--- | :--- |
 | **[MuseGuard](https://github.com/Magic-Dala/Meta-MuseGuard)** | An AI home guardian that turns a spare phone into a monitor for a baby, a pet, or an older family member. |
+| **[Brand New Universe - Mobius](https://github.com/Magic-Dala/brand-new-universe-mobius)** | A superhero rhythm-action VR game for Meta Quest 3. |
 | **[Keys by Friday](https://github.com/Magic-Dala/keys-by-friday)** | An AI rental-search agent that turns scattered listings into an informed shortlist. |
 | **[Rolig](https://github.com/Magic-Dala/Rolig)** | A personalized meme feed for iOS, Android, and the web. |
 
