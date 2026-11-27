@@ -38,7 +38,7 @@ Archbro is in beta and live at **[archbro.app](https://archbro.app/)**.
 
 ## Meet MuseGuard
 
-**Built for the Meta Global AI Developer Hackathon · App beta now available**
+**Built for the Meta Global AI Developer Hackathon**
 
 Turn a spare phone into a home guardian for a sleeping baby, a pet, or an older family member. MuseGuard screens on the phone itself and only alerts the family when it matters: covered face or face-down sleep in Baby mode, zone entries in Pet mode, and possible falls in Older adult mode. In Baby mode, Meta's Muse Spark with SAM 3.1 takes a second look before a high-risk alert goes out and explains why in plain language, in English or Traditional Chinese. Live phone-to-phone video and activity history keep the whole family in the loop.
 
@@ -46,11 +46,11 @@ Turn a spare phone into a home guardian for a sleeping baby, a pet, or an older 
   <img src="https://raw.githubusercontent.com/Magic-Dala/Meta-MuseGuard/main/docs/assets/screens.png" width="960" alt="MuseGuard screens: a home with Baby, Pet and Older adult guardians, a Baby guardian phone with the live crib view, a Pet watch zone, and the family's live view during a possible-fall check." />
 </a>
 
-[Try MuseGuard →](https://museguard.magicdala.com/) · [Explore the code →](https://github.com/Magic-Dala/Meta-MuseGuard) · [Watch the demo →](https://youtu.be/2dX_lJQgHr0)
+[Try MuseGuard →](https://museguard.magicdala.com/) · [Explore the code →](https://github.com/Magic-Dala/Meta-MuseGuard)
 
 ## Meet Brand New Universe - Mobius
 
-**VR rhythm-action for Meta Quest 3 · Playable now, in development**
+**VR rhythm-action for Meta Quest 3 · Playable now**
 
 A superhero rhythm-action game for Meta Quest 3, in English and Chinese. Swing through the city, chase the boss, and hit the beat, with an arcade mode that has its own music and scenes. Mobius is our entry for the Meta VR Start Developer Competition 2026.
 
@@ -58,7 +58,7 @@ A superhero rhythm-action game for Meta Quest 3, in English and Chinese. Swing t
   <img src="https://raw.githubusercontent.com/Magic-Dala/.github/main/profile/assets/mobius-key-art.jpg" width="960" alt="Brand New Universe - Mobius key art: an armored superhero swings across a city at sunset, and a first-person view shows glowing rhythm lanes in a warehouse with a scaled boss looming above." />
 </a>
 
-[Try Mobius →](https://bnum.magicdala.com/) · [Explore the code →](https://github.com/Magic-Dala/brand-new-universe-mobius)
+[Try Mobius →](https://bnum.magicdala.com/) · [Explore the code →](https://github.com/Magic-Dala/brand-new-universe-mobius) · [See it on Devpost →](https://devpost.com/software/biu-build-dala) · [Watch the demo →](https://youtu.be/4fmI05LAafA)
 
 ## Explore our public projects
 
@@ -68,8 +68,6 @@ A superhero rhythm-action game for Meta Quest 3, in English and Chinese. Swing t
 | **[Brand New Universe - Mobius](https://github.com/Magic-Dala/brand-new-universe-mobius)** | A superhero rhythm-action VR game for Meta Quest 3. |
 | **[Keys by Friday](https://github.com/Magic-Dala/keys-by-friday)** | An AI rental-search agent that turns scattered listings into an informed shortlist. |
 | **[Rolig](https://github.com/Magic-Dala/Rolig)** | A personalized meme feed for iOS, Android, and the web. |
-
-We're also developing a **creative sandbox world in VR**. [See what we're working on →](https://magicdala.com/#work)
 
 ## Build with us
 
